@@ -4,7 +4,7 @@ A fully local, offline-capable Retrieval-Augmented Generation (RAG) chatbot that
 processes 11 000+ conversations, builds a persona profile, and lets you query
 the dataset — **no paid APIs, no cloud inference required.**
 
-##demo link : https://drive.google.com/file/d/1QMucUCNyfesjrwf-yLtLrN0UVpgy6Vl5/view?usp=sharing
+#demo link : https://drive.google.com/file/d/1QMucUCNyfesjrwf-yLtLrN0UVpgy6Vl5/view?usp=sharing
 
 ---
 
