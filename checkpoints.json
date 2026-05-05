@@ -1,0 +1,738 @@
+{
+  "topics": [
+    {
+      "topic_id": 0,
+      "start_msg": 0,
+      "end_msg": 14,
+      "summary": "The author is moving to Portland, Oregon to pursue his culinary dreams. He is originally from Portland and still visits his family there often. He says he loves going to Powell's Books, the largest independent bookstore in the world. The author says he will have to check out Powell's.",
+      "keywords": [
+        "going",
+        "love",
+        "moving",
+        "portland",
+        "powell"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "start_msg": 14,
+      "end_msg": 24,
+      "summary": "I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about. I'm a big fan of punk music myself, and I like to run and do yoga in my spare time. It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job.",
+      "keywords": [
+        "doing",
+        "great",
+        "really",
+        "time",
+        "try"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "start_msg": 24,
+      "end_msg": 35,
+      "summary": "I love the freedom of being able to learn whatever I want. Reading is a great way to relax. I love to cook too! I love making chicken parmesan. I also love to make chocolate chip cookies. I'm sure it will be! So what's your favorite thing about being a student?",
+      "keywords": [
+        "chicken",
+        "doing",
+        "love",
+        "parmesan",
+        "thanks"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "start_msg": 35,
+      "end_msg": 45,
+      "summary": "Do you have any pets? I have a dog and a cat. They are my best friends. I used to have a dogs, but he passed away a few years ago. I'm so sorry to hear that. Dogs are such wonderful companions. I miss him every day.",
+      "keywords": [
+        "adorable",
+        "day",
+        "dog",
+        "thanks",
+        "used"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "start_msg": 45,
+      "end_msg": 60,
+      "summary": "The author is a children's librarian. She loves reading to kids. She's never been to the Everglades, but says it's one of the most beautiful places she's ever been. She says she loves the Harry Potter series and hiking in the EverGlades.",
+      "keywords": [
+        "hike",
+        "job",
+        "love",
+        "nice",
+        "oh"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "start_msg": 60,
+      "end_msg": 91,
+      "summary": "I am looking forward to helping people and making a difference in my community. I love to play soccer and I usually wake up and play piano before starting my day. I'm a single mom and I work full time, but I'm lucky enough to have a great support system.",
+      "keywords": [
+        "forward",
+        "great",
+        "new",
+        "play",
+        "sure"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "start_msg": 91,
+      "end_msg": 102,
+      "summary": "I'm not good at keeping up with my family, but I'm trying to be better. I'm single and live with my three cats. I love books, and I like to watch funny and lighthearted shows to relax. I haven't read much lately, but am trying to get back into it.",
+      "keywords": [
+        "book",
+        "favorites",
+        "love",
+        "trying",
+        "wear"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "start_msg": 102,
+      "end_msg": 144,
+      "summary": "Hi there! How are you doing today? I'm doing well, thanks for asking. What are some of your hobbies? I enjoy gardening, listening to the Beatles, and spending time with my pets. I'd love to meet you in person. Me too! We can exchange contact information and make plans.",
+      "keywords": [
+        "doing",
+        "great",
+        "love",
+        "thanks",
+        "time"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "start_msg": 144,
+      "end_msg": 173,
+      "summary": "I'm not a very good cook, but I love to eat lasagna. I've been reading a lot of historical romance novels lately. It's so much fun to learn about different time periods and cultures through books. I love the Outlander series by Diana Gabaldon. I can't wait to see what happens next.",
+      "keywords": [
+        "books",
+        "historical",
+        "love",
+        "oh",
+        "read"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "start_msg": 173,
+      "end_msg": 184,
+      "summary": "I love to go on hikes with my family. We live in a beautiful area, so there are lots of great hiking trails nearby. You should come visit us sometime! We'd love to show you around. That sounds like a lot of fun. Thanks! I'll definitely keep that in mind.",
+      "keywords": [
+        "fun",
+        "like",
+        "love",
+        "nearby",
+        "sounds"
+      ]
+    },
+    {
+      "topic_id": 10,
+      "start_msg": 184,
+      "end_msg": 218,
+      "summary": "I'm a fisherman and I love spending time with my dog. I have a cat and a dog. My dad is a really good photographer. I love to dance salsa. I'm not sure yet, but I'm thinking about going to college to study photography. I've never been fishing before.",
+      "keywords": [
+        "awesome",
+        "great",
+        "love",
+        "photography",
+        "thanks"
+      ]
+    },
+    {
+      "topic_id": 11,
+      "start_msg": 218,
+      "end_msg": 233,
+      "summary": "I love to dance! Dancing is a great way to stay fit and have fun. I also like to clean houses for extra money. I try to stay in touch with my family as often as I can. I enjoy reading Jane Austen novels. They're a good way to relax.",
+      "keywords": [
+        "fun",
+        "great",
+        "like",
+        "love",
+        "way"
+      ]
+    },
+    {
+      "topic_id": 12,
+      "start_msg": 233,
+      "end_msg": 246,
+      "summary": "I'm not close with my family, so I'm kind of jealous. My family is everything to me. I'm trying to build a stronger relationship with my friends. It takes time, but it's worth it. I've been singing since I was a kid. It's so much fun.",
+      "keywords": [
+        "choir",
+        "kids",
+        "know",
+        "time",
+        "ve"
+      ]
+    },
+    {
+      "topic_id": 13,
+      "start_msg": 246,
+      "end_msg": 261,
+      "summary": "I love getting to create something that will be enjoyed by the public. The most challenging part is coming up with the concept for the mural. I want it to be something that's meaningful and visually appealing. I'm not very artistic so I can appreciate all the work that goes into creating a mural.",
+      "keywords": [
+        "come",
+        "job",
+        "know",
+        "love",
+        "work"
+      ]
+    },
+    {
+      "topic_id": 14,
+      "start_msg": 261,
+      "end_msg": 271,
+      "summary": "I love the way they swim. I like sharks too! I love to go to the aquarium and see them. Have you ever been to the Georgia Aquarium? No, I have not! I have always wanted to go though. It is amazing! They have a huge shark tank.",
+      "keywords": [
+        "amazing",
+        "aquarium",
+        "love",
+        "sharks",
+        "want"
+      ]
+    },
+    {
+      "topic_id": 15,
+      "start_msg": 271,
+      "end_msg": 296,
+      "summary": "I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to. I have had to rescue people who were caught in riptides and it is scary, but it is also rewarding. I love getting to help people learn and grow. I am close with my family. We are all really",
+      "keywords": [
+        "great",
+        "job",
+        "love",
+        "people",
+        "really"
+      ]
+    },
+    {
+      "topic_id": 16,
+      "start_msg": 296,
+      "end_msg": 311,
+      "summary": "I like to go fishing with my uncle and reminisce about the old days. I have always wanted to learn how to weld. There are a lot of great YouTube videos that can teach you how. I'm terrible at spelling, but I'm good at juggling. I love the adrenaline rush of it. I think I'll stick to juggling balls.",
+      "keywords": [
+        "balls",
+        "fun",
+        "like",
+        "lot",
+        "sounds"
+      ]
+    },
+    {
+      "topic_id": 17,
+      "start_msg": 311,
+      "end_msg": 329,
+      "summary": "I love the combination of the creamy hummus and the crunchy pita bread. I am going to be spending the day with my friends. I wish I had the day off tomorrow. My favorite part of my job is seeing the progress that my clients make. It is so rewarding to be able to help them achieve their goals.",
+      "keywords": [
+        "able",
+        "day",
+        "going",
+        "love",
+        "rewarding"
+      ]
+    },
+    {
+      "topic_id": 18,
+      "start_msg": 329,
+      "end_msg": 344,
+      "summary": "I have a mini Australian Shepherd. He's a lot of work, but he's also lot of fun. I love taking him for walks. It's a great way to get some exercise and spend time with my best friend. I wish I had a park close to my house. I would love to take my dog there.",
+      "keywords": [
+        "dog",
+        "friend",
+        "great",
+        "love",
+        "way"
+      ]
+    },
+    {
+      "topic_id": 19,
+      "start_msg": 344,
+      "end_msg": 362,
+      "summary": "CNN.com spoke to dog owner and scuba diver, Jake Tapper, about scuba diving. Tapper says he's been looking into diving in the Florida Keys and the Maldives. He says he wants to get his certification first, but he's looking into some great places to go.",
+      "keywords": [
+        "diving",
+        "great",
+        "looks",
+        "scuba",
+        "think"
+      ]
+    },
+    {
+      "topic_id": 20,
+      "start_msg": 362,
+      "end_msg": 372,
+      "summary": "I'm sure you'll love it Hello! Hello! How are you doing today? I am doing well, thank you for asking! I just got back from a walk in the park with my dog. What breed is your dog? I have a golden retriever named Buddy. He is a very good boy. Do you have any other pets? Yes, I Have a horse named Shadow",
+      "keywords": [
+        "golden",
+        "hello",
+        "horse",
+        "love",
+        "named"
+      ]
+    },
+    {
+      "topic_id": 21,
+      "start_msg": 372,
+      "end_msg": 383,
+      "summary": "I like to go hiking, biking, and fishing. I also like to play video games. We should hang out sometime and do some of those things together. I would love to get to know you better. I'll send you my number so we can make plans.",
+      "keywords": [
+        "fun",
+        "know",
+        "like",
+        "things",
+        "think"
+      ]
+    },
+    {
+      "topic_id": 22,
+      "start_msg": 383,
+      "end_msg": 396,
+      "summary": "My day is great! I love this time of year. The weather is perfect and the leaves are so beautiful. I love orange too. I have four daughters too. They are the light of my life. I am so grateful for my family. Me too. It sounds like we have a lot in common!",
+      "keywords": [
+        "carving",
+        "fall",
+        "like",
+        "love",
+        "yes"
+      ]
+    },
+    {
+      "topic_id": 23,
+      "start_msg": 396,
+      "end_msg": 417,
+      "summary": "I like to watch old movies from my childhood. I also like to travel and take pictures. I like to play open-world games, like Skyrim and Fallout. I love being able to create my own character and make choices. I have to go now, but I'll talk to you later!",
+      "keywords": [
+        "fun",
+        "games",
+        "like",
+        "nice",
+        "play"
+      ]
+    },
+    {
+      "topic_id": 24,
+      "start_msg": 417,
+      "end_msg": 435,
+      "summary": "I love to cook! I love to experiment with new recipes. I love going for walks, spending time with my family and friends, and listening to music. My favorite thing to cook is probably my mom's chicken noodle soup. Maybe we should trade recipes sometime! That would be fun!",
+      "keywords": [
+        "favorite",
+        "great",
+        "like",
+        "love",
+        "walks"
+      ]
+    },
+    {
+      "topic_id": 25,
+      "start_msg": 435,
+      "end_msg": 445,
+      "summary": "I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies. I love brownies too! They're so easy to make and they're always a hit. I also love to read and play video games. I am a cake decorator.",
+      "keywords": [
+        "bake",
+        "enjoy",
+        "favorite",
+        "love",
+        "make"
+      ]
+    },
+    {
+      "topic_id": 26,
+      "start_msg": 445,
+      "end_msg": 455,
+      "summary": "I love to read anything by Stephen King or Dean Koontz. I've never read any of Stephen King's books, but I've heard good things about them. I love historical fiction too. I have a huge stack of books that I need to read. I know the feeling.",
+      "keywords": [
+        "books",
+        "historical",
+        "love",
+        "read",
+        "ve"
+      ]
+    },
+    {
+      "topic_id": 27,
+      "start_msg": 455,
+      "end_msg": 479,
+      "summary": "I like to read, write, and spend time with my family. I don't have a favorite book. I love Jane Austen and Charles Dickens. They're both amazing writers. I'd love to go, but I'm stuck in a wheelchair. I've learned to live with it.",
+      "keywords": [
+        "favorite",
+        "good",
+        "like",
+        "love",
+        "read"
+      ]
+    },
+    {
+      "topic_id": 28,
+      "start_msg": 479,
+      "end_msg": 491,
+      "summary": "I play a lot of different kinds of music, but I mostly play rock and blues. I'm hoping to start playing some local shows soon. Do you ever play any shows? Not yet, but we're going to be best friends. I think so too. I hope so.",
+      "keywords": [
+        "great",
+        "music",
+        "play",
+        "playing",
+        "shows"
+      ]
+    },
+    {
+      "topic_id": 29,
+      "start_msg": 491,
+      "end_msg": 512,
+      "summary": "I like to go fishing, watch baseball, and spend time with my family. My dad is a chef and my sister is a server so my favorite food is always on the table. I wish I could cook like my mom. I don't like a lot of vegetables. I'm afraid people will think I'm weird.",
+      "keywords": [
+        "chef",
+        "cook",
+        "food",
+        "like",
+        "love"
+      ]
+    },
+    {
+      "topic_id": 30,
+      "start_msg": 512,
+      "end_msg": 588,
+      "summary": "Hi, my name is John. What do you do for a living? I'm a professional chef. What kind of food do you like to cook? I love to cook all kinds of food, but my specialty is Italian. Cleaning is therapeutic! I love cleaning. It helps me de-stress. I like to go for drives to relieve stress too. I drive a fast sports",
+      "keywords": [
+        "cool",
+        "fun",
+        "like",
+        "lot",
+        "love"
+      ]
+    },
+    {
+      "topic_id": 31,
+      "start_msg": 588,
+      "end_msg": 600,
+      "summary": "Michigan State Trooper is a big fan of the Beatles. He loves adrenaline rushes and pushing himself to the limit. He also likes to spend time alone to reflect on his life and what he wants to achieve. He says it's important to have a balance between the two, so you don't get too burned out.",
+      "keywords": [
+        "doing",
+        "enjoy",
+        "love",
+        "new",
+        "time"
+      ]
+    },
+    {
+      "topic_id": 32,
+      "start_msg": 600,
+      "end_msg": 620,
+      "summary": "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride. I'm also a big fan of the romcoms that come out of Bollywood. I've never seen any Bollywood movies. They're very funny and romantic. I'll have to check them out.",
+      "keywords": [
+        "comedies",
+        "home",
+        "looking",
+        "love",
+        "romantic"
+      ]
+    },
+    {
+      "topic_id": 33,
+      "start_msg": 620,
+      "end_msg": 630,
+      "summary": "I'm a woman who worries about the judgment of my family because of my sexual orientation. I hope you can find a way to be open with your family about who you are. There are plenty of people who love and support you. I'm scared to tell them, but I think they'd be accepting.",
+      "keywords": [
+        "doing",
+        "family",
+        "hope",
+        "thanks",
+        "way"
+      ]
+    },
+    {
+      "topic_id": 34,
+      "start_msg": 630,
+      "end_msg": 663,
+      "summary": "Hey there! How's it going? I just got a new job in academia and I'm really excited about it. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water. I play the piano and I used to take ballet lessons when I was younger. I've always wanted to learn how to play guitar.",
+      "keywords": [
+        "going",
+        "great",
+        "love",
+        "play",
+        "thanks"
+      ]
+    },
+    {
+      "topic_id": 35,
+      "start_msg": 663,
+      "end_msg": 675,
+      "summary": "I like to read, write, and spend time in nature. I've been on a historical fiction kick lately. I just finished reading the book \"The Nightingale\" by Kristin Hannah. I'll have to check it out. It's a really good story.",
+      "keywords": [
+        "fiction",
+        "good",
+        "like",
+        "read",
+        "time"
+      ]
+    },
+    {
+      "topic_id": 36,
+      "start_msg": 675,
+      "end_msg": 689,
+      "summary": "I love being able to spread out and relax. I'm going to call my mom over to see it. I know, she's been wanting me to get a new couch for a while. Well now you have a reason to invite her over! Yeah, I think I will.",
+      "keywords": [
+        "couch",
+        "great",
+        "love",
+        "new",
+        "sure"
+      ]
+    },
+    {
+      "topic_id": 37,
+      "start_msg": 689,
+      "end_msg": 704,
+      "summary": "I like to make 3d models for video games and animations. I love spicy food! My favorite Mexican dish is enchiladas. I also like tacos with ground beef and guacamole. It's always nice to meet someone who likes the same things you do.",
+      "keywords": [
+        "favorite",
+        "food",
+        "like",
+        "love",
+        "tacos"
+      ]
+    },
+    {
+      "topic_id": 38,
+      "start_msg": 704,
+      "end_msg": 725,
+      "summary": "\"The Princess Bride\" is one of my favorite movies. I like to run, read, and watch movies too. I'm currently reading a book called \"The Great Gatsby\" by F. Scott Fitzgerald. I love that book! It's a really great movie.",
+      "keywords": [
+        "great",
+        "love",
+        "movie",
+        "movies",
+        "working"
+      ]
+    },
+    {
+      "topic_id": 39,
+      "start_msg": 725,
+      "end_msg": 747,
+      "summary": "I'm really excited to get to know my students and help them learn and grow. I have a golden retriever and a black lab. I love golden retrievers. I think they're so important. They make the world a better place. I'm sure your students are going to love you.",
+      "keywords": [
+        "cat",
+        "going",
+        "great",
+        "love",
+        "really"
+      ]
+    },
+    {
+      "topic_id": 40,
+      "start_msg": 747,
+      "end_msg": 759,
+      "summary": "\"I actually found out that my car is sentient. It can talk and everything! Wait... really? That's actually pretty cool. Have you had any conversations with it? Oh yeah, we talk all the time. It'll just make comments about the weather, or about the traffic. It's not like it's having full-on conversations with me, but it definitely feels",
+      "keywords": [
+        "actually",
+        "car",
+        "pretty",
+        "really",
+        "talk"
+      ]
+    },
+    {
+      "topic_id": 41,
+      "start_msg": 759,
+      "end_msg": 775,
+      "summary": "I'm an introverted musician, so I can relate to the stress part. I play the piano and the guitar. I also sing a little bit. It's never too late to learn to play the Piano. Maybe I'll give it a try one day. You should! It's a lot of fun.",
+      "keywords": [
+        "day",
+        "doing",
+        "little",
+        "play",
+        "work"
+      ]
+    },
+    {
+      "topic_id": 42,
+      "start_msg": 775,
+      "end_msg": 785,
+      "summary": "I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels. I've been reading a lot of historical fiction set in the Civil War lately. You should check it out! It's really good. I will! Thanks for the recommendation.",
+      "keywords": [
+        "books",
+        "fiction",
+        "historical",
+        "like",
+        "read"
+      ]
+    },
+    {
+      "topic_id": 43,
+      "start_msg": 785,
+      "end_msg": 803,
+      "summary": "I'm a med student, trying to decide where I want to do my residency. I'm thinking maybe Sweden. I like to build things. My favorite place to eat recently is this new sushi place that just opened up. I love trying new foods. I've never been to Sweden.",
+      "keywords": [
+        "cool",
+        "love",
+        "new",
+        "sure",
+        "want"
+      ]
+    },
+    {
+      "topic_id": 44,
+      "start_msg": 803,
+      "end_msg": 814,
+      "summary": "I love playing the guitar, and I also enjoy collecting seashells. I like to play a lot of different kinds of music, but my favorite is probably rock and roll. Do you play in a band? I'll have to try it sometime. It's a great way to relax.",
+      "keywords": [
+        "lot",
+        "love",
+        "music",
+        "play",
+        "seashells"
+      ]
+    },
+    {
+      "topic_id": 45,
+      "start_msg": 814,
+      "end_msg": 828,
+      "summary": "No, I just play for fun. I love comic cons too, it's where I can be myself and express my creativity. I live in California and we have a few here. California seems like a cool place, I've always wanted to go. I have a dog and I like to take him to the skatepark with me.",
+      "keywords": [
+        "great",
+        "love",
+        "picture",
+        "place",
+        "yeah"
+      ]
+    },
+    {
+      "topic_id": 46,
+      "start_msg": 828,
+      "end_msg": 838,
+      "summary": "I enjoy listening to Nirvana in my spare time as well. My favorite song by them is smells like teen spirit. I used to be a teacher, but I had to quit due to my health. I loved working with kids and helping them learn. I also like their music because it is not afraid to be dark and sad.",
+      "keywords": [
+        "favorite",
+        "like",
+        "music",
+        "song",
+        "think"
+      ]
+    },
+    {
+      "topic_id": 47,
+      "start_msg": 838,
+      "end_msg": 848,
+      "summary": "I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I love the homey atmosphere and good old-fashioned comfort food. I'm not so big on the diner scene, but I know a lot of people who love it.",
+      "keywords": [
+        "atmosphere",
+        "food",
+        "know",
+        "love",
+        "new"
+      ]
+    },
+    {
+      "topic_id": 48,
+      "start_msg": 848,
+      "end_msg": 859,
+      "summary": "I love to go shopping. I'm always looking for new clothes and accessories. I love to read all kinds of different genres. My favorite is romance. I've always wanted a dog, but I just haven't had the time to take care of one. I have two dogs. They're the best pets ever!",
+      "keywords": [
+        "looking",
+        "love",
+        "pets",
+        "read",
+        "romance"
+      ]
+    },
+    {
+      "topic_id": 49,
+      "start_msg": 859,
+      "end_msg": 874,
+      "summary": "I love spending time with my mom too. I try to make time for her every week. She must be really happy to have you. Yeah, she is. I am her only child, so I am my whole world. Aww! That's so sweet. I'm an only child too.",
+      "keywords": [
+        "going",
+        "great",
+        "nice",
+        "really",
+        "yeah"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "checkpoint_id": 0,
+      "msg_range": [
+        0,
+        100
+      ],
+      "summary": "Hi, I'm a fulltime student studying radiology at a local college. I love the freedom of being able to learn whatever I want. I enjoy reading, cooking, and spending time with my family. I am looking forward to helping people and making a difference in my community."
+    },
+    {
+      "checkpoint_id": 1,
+      "msg_range": [
+        100,
+        200
+      ],
+      "summary": "Hi there! How are you doing today? I'm doing well, thanks for asking. What are some of your hobbies? I enjoy gardening, listening to the Beatles, and spending time with my pets. What do you do for a living? I am a stay-at-home mom. I own a gym. I train people to stay in peak physical condition."
+    },
+    {
+      "checkpoint_id": 2,
+      "msg_range": [
+        200,
+        300
+      ],
+      "summary": "I love to dance! Dancing is a great way to stay fit and have fun. I like to clean houses for extra money. I enjoy reading Jane Austen novels. Sharks are my favorite animal. I want to go to the Georgia Aquarium and see sharks. I'm not close with my family, so I'm kind of jealous."
+    },
+    {
+      "checkpoint_id": 3,
+      "msg_range": [
+        300,
+        400
+      ],
+      "summary": "I love to take my dog for walks and let him run around the park. I love scuba diving, but it's so expensive. I'm terrible at spelling, but I'm good at juggling. My favorite part of my job is seeing the progress that my clients make."
+    },
+    {
+      "checkpoint_id": 4,
+      "msg_range": [
+        400,
+        500
+      ],
+      "summary": "I like to watch old movies from my childhood. I like to travel and take pictures. My favorite thing to cook is probably my mom's chicken noodle soup. I love to read anything by Stephen King or Dean Koontz. I'm always looking for new books that I need to read."
+    },
+    {
+      "checkpoint_id": 5,
+      "msg_range": [
+        500,
+        600
+      ],
+      "summary": "User 1: \"I'm a Japanese billionaire who loves the wind in my hair\" User 2: \"My dad is a chef and my sister is a server so my favorite food is always on the table\" User 3: \"Cleaning is therapeutic! I love cleaning. It helps me de-stress\""
+    },
+    {
+      "checkpoint_id": 6,
+      "msg_range": [
+        600,
+        700
+      ],
+      "summary": "Hey, I'm looking for someone to share my love of romantic comedies with. I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride. I'm also a big fan of the romcoms that come out of Bollywood. I've never seen any Bollywood movies, but they're very funny and romantic."
+    },
+    {
+      "checkpoint_id": 7,
+      "msg_range": [
+        700,
+        800
+      ],
+      "summary": "I'm working at a coffee shop to support myself while I pursue my dream of becoming an actress. I like to run, read, and watch movies. I have two dogs and a cat. I'm an introverted musician, so I can relate to the stress part of the job. I love animals. I think they make the world a better place. I actually found out"
+    },
+    {
+      "checkpoint_id": 8,
+      "msg_range": [
+        800,
+        874
+      ],
+      "summary": "I love playing the guitar, and I also enjoy collecting seashells. I used to be a teacher, but I had to quit due to my health. I love comic cons too, it's where I can be myself and express my creativity. I have two dogs, they're the best pets ever!"
+    }
+  ],
+  "meta": {
+    "total_messages": 874,
+    "total_topics": 50,
+    "total_chunks": 9,
+    "embed_model": "all-MiniLM-L6-v2",
+    "summariser_model": "facebook/bart-large-cnn",
+    "sim_threshold": 0.35,
+    "window_size": 5,
+    "chunk_size": 100
+  }
+}

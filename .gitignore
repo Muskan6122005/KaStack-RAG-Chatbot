@@ -29,11 +29,11 @@ huggingface_hub/
 *.safetensors
 
 # FAISS index (generated artifacts)
-faiss_index/
+# faiss_index/
 
 # Generated outputs
-checkpoints.json
-persona.json
+# checkpoints.json
+# persona.json
 
 # macOS
 .DS_Store
