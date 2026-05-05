@@ -1,0 +1,5 @@
+[✓] Loaded 11001 conversations from conversations.csv
+[→] Loading facebook/bart-large-mnli (zero-shot classifier)…
+Loading weights:   0%|          | 0/515 [00:00<?, ?it/s]Loading weights: 100%|██████████| 515/515 [00:00<00:00, 9302.41it/s]
+Classifying batches:   0%|          | 0/111 [00:00<?, ?it/s]Classifying batches:   1%|          | 1/111 [01:48<3:19:15, 108.69s/it]Classifying batches:   2%|▏         | 2/111 [03:39<3:20:05, 110.14s/it]Classifying batches:   3%|▎         | 3/111 [05:35<3:22:44, 112.64s/it]/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:396: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/loky-5482-rc3e4ptb'}
+  warnings.warn(

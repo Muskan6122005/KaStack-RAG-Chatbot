@@ -1,0 +1,24 @@
+# Core ML
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+
+# NLP / keywords
+scikit-learn>=1.4.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Emoji counting
+emoji>=2.12.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# App
+streamlit>=1.35.0
+
+# Progress bars
+tqdm>=4.66.0
